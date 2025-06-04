@@ -1,7 +1,8 @@
 .PokeGrid {
     display: flex;
-    grid-template-columns:100px 100px;
+    grid-template-columns:100px 100px 100px;
     
+  gap: 20px;
  background-color: yellow;
 width: 400px;
 height: 300px;
@@ -14,3 +15,4 @@ img {
     width: 100px;
     height: 80px;
 }
+
