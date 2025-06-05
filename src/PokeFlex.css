@@ -1,15 +1,14 @@
 .PokeFlex {
     display: flex;
-    flex-direction: column;
     flex-wrap: nowrap;
- background-color: blue;
-width: 400px;
-height: 300px;
-overflow:auto;
-
-
+    flex-direction: column;
+    background-color: red;
+    width: 400px;
+    height:300px;
+    overflow: auto;
+ 
 }
-
+ 
 img {
     width: 100px;
     height: 80px;
